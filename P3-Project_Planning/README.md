@@ -9,6 +9,9 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+*(Webframe 1)(https://github.com/janenoxid/liftoff-assignments/blob/master/P3-Project_Planning/Web%201920%20%E2%80%93%201.png)
+*(Webframe 2)(https://github.com/janenoxid/liftoff-assignments/blob/master/P3-Project_Planning/Web%201920%20%E2%80%93%202.png)
+*(Webframe 3)(https://github.com/janenoxid/liftoff-assignments/blob/master/P3-Project_Planning/Web%201920%20%E2%80%93%203.png)
 
 ### Project Tracker
 
